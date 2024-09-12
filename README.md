@@ -1,4 +1,6 @@
-# a Cue Sheet generator for the awesome N i g h t D r i v e スケラーmixes by skeler. on YT.
+# a Cue Sheet generator...
+
+## ... for the awesome N i g h t D r i v e スケラー mixes by skeler. on YouTube
 
 [N i g h t D r i v e スケラー PART I](https://youtu.be/J0y6wM0aAgE?si=yoArnIMXnhnsiJX6)
 [N i g h t D r i v e スケラー PART II](https://youtu.be/J4t4pMZBXZg?si=v2we1Q2tAM3gN94h)
